@@ -10,6 +10,7 @@ if a== 1:
          print("치킨")
          if a==3:
             print ("피자")
+            
              
          
 
